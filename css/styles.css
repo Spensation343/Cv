@@ -1,0 +1,38 @@
+body {
+  background-color: #3282b8
+}
+
+hr {
+  border-style: dotted none none;
+  width: 5%;
+  border-color: white;
+  border-width: 5px;
+}
+
+h1 {
+  color: white;
+  text-shadow: 3px 2px black;
+}
+
+h3 {
+  color: white;
+  text-shadow: 3px 2px black;
+}
+
+
+/*************************Id Selector************************/
+
+#heading{
+  color: white;
+
+}
+
+/*********************** Class Selector*********************/
+
+.stars{
+  text-shadow: 3px 2px black;
+
+}
+.submit:hover{
+  border-radius: 35%;
+  background-color: gold;}
